@@ -26,7 +26,7 @@ Examples of unacceptable behavior include:
 This Code of Conduct applies within project spaces and in public spaces where a person is representing the project or its community.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at **conduct@longlight.org**. All complaints will be reviewed fairly and addressed promptly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at **conduct@longlight.org**. Reports related to legal or licensing matters may be sent to **legal@longlight.org**. All complaints will be reviewed fairly and addressed promptly.
 
 ## Consequences
 Participants asked to stop unacceptable behavior are expected to comply immediately. Violations may result in warnings, temporary bans, or permanent exclusion from the community.
