@@ -1,7 +1,7 @@
 # Contributing to CivicForge
 
 Welcome, and thank you for your interest in contributing to CivicForge!  
-CivicForge is part of the Longlight Collective, an ecosystem dedicated to building open tools for collaboration, participatory planning, and transparent decision-making.
+CivicForge is part of **Longlight Inc.**, a nonprofit stewarding open civic infrastructure. Community funding and participation are coordinated through the **Longlight Collective** on Open Collective.
 
 We welcome contributions of all kinds: code, design, documentation, research, and community engagement.
 
@@ -54,6 +54,9 @@ By contributing, you agree that your contributions will be licensed under the sa
 ---
 
 ## Questions?
-Reach out via [Longlight Collective](https://opencollective.com/longlight) or email hello@longlight.org.
+Reach out via the **Longlight Collective** on [Open Collective](https://opencollective.com/longlight) or email hello@longlight.org.
+
+We’re glad you’re here. Let’s forge something together.
+
 
 We’re glad you’re here. Let’s forge something together.
